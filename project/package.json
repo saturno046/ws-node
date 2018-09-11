@@ -1,0 +1,21 @@
+{
+  "name": "turmaa2018",
+  "version": "1.0.0",
+  "description": "Task Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tasks",
+    "manager"
+  ],
+  "author": "lucas ventura",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3", 
+    "express": "^4.16.3"
+  }
+}
+
+
